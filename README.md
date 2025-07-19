@@ -73,3 +73,6 @@ Why does this happen?
 Machine Learning models do not always get the exact answer right, especially when working with real-world data and probabilistic outputs.
 
 The important thing is to analyze the predictions, understand the model's confidence, and evaluate performance globally (e.g., using accuracy, precision, recall), not just for individual samples.
+
+⚠️ After line 75 is all mine the code ⚠️
+
